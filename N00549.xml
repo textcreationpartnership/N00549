@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <body>
          <div type="address">
-            <pb facs="tcp:000677_0000_0FA99F6B70E41D00"/>
-            <pb facs="tcp:000677_0001_0FA99F6BF3A855B0"/>
+            <pb facs="unknown:000677_0000_0FA99F6B70E41D00"/>
+            <pb facs="unknown:000677_0001_0FA99F6BF3A855B0"/>
             <head>To His Excellency <hi>Benjamin Fletcher,</hi> Captain General and Governor in Chief of Their Majesties Pro<g ref="char:EOLhyphen"/>vince of <hi>New-York,</hi> Province of <hi>Pennsilvania,</hi> Country of <hi>New-Castle,</hi> Territories and Tracts of Land depending thereon in <hi>America,</hi> Vice-Admiral of the same.</head>
             <head>
                <hi>The humble Address of the Mayor, Recorder, Alder-men and Commonality of their Majesties City of</hi> New-York, <hi>conven'd in Common Council.</hi>
